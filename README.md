@@ -10,4 +10,4 @@ Brace (left) | {
 Brace (right) | }
 Bracket (left) | [ 
 Bracket (right) | ]
-Pipe | |
+Pipe | \|
